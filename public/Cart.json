@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Big Banana",
+        "price": 2.99,
+        "quantity": 1,
+        "image": "img/vegetable-item-3.png"
+    },
+    {
+        "id": 2,
+        "name": "Potatoes",
+        "price": 2.99,
+        "quantity": 1,
+        "image": "img/vegetable-item-5.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Awesome Broccoli",
+        "price": 2.99,
+        "quantity": 1,
+        "image": "img/vegetable-item-2.jpg"
+    }
+]

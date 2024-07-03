@@ -1,0 +1,32 @@
+[
+    {
+        "category": "Fruits",
+        "name": "Grapes",
+        "price": "$4.99 / kg",
+        "image": "img/fruite-item-5.jpg"
+    },
+    {
+        "category": "Fruits",
+        "name": "Raspberries",
+        "price": "$4.99 / kg",
+        "image": "img/fruite-item-2.jpg"
+    },
+    {
+        "category": "Fruits",
+        "name": "Apricots",
+        "price": "$4.99 / kg",
+        "image": "img/fruite-item-4.jpg"
+    },
+    {
+        "category": "Fruits",
+        "name": "Banana",
+        "price": "$4.99 / kg",
+        "image": "img/fruite-item-3.jpg"
+    },
+    {
+        "category": "Fruits",
+        "name": "Oranges",
+        "price": "$4.99 / kg",
+        "image": "img/fruite-item-1.jpg"
+    }
+]
